@@ -1,4 +1,6 @@
-
+.. toctree::  
+   :hidden:
+   
 
 *********
 Glossary 

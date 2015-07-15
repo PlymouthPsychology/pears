@@ -460,3 +460,12 @@ a:hover tt {
 
 
 .caption { font-style: italic; font-size: 80%;}
+
+.important { 
+    padding: 1em; 
+    background: #fff0a4;
+    font-weight: 800;
+}
+
+
+

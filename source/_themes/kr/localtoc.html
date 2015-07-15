@@ -1,0 +1,19 @@
+{#
+    basic/localtoc.html
+    ~~~~~~~~~~~~~~~~~~~
+
+    Sphinx sidebar template: local table of contents.
+
+    :copyright: Copyright 2007-2015 by the Sphinx team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+#}
+
+
+
+{%- if display_toc %}
+  <p><a href="{{ pathto(master_doc) }}">{{ _('Home') }}</a></p>
+
+  <p><em>Pears is a brief course to help you manage pain after surgery.</em></p>
+
+  {{ toctree() }}
+{%- endif %}
