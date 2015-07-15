@@ -31,7 +31,6 @@ The aims of this guide are to:
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
 
    introduction
    how-pain-works
