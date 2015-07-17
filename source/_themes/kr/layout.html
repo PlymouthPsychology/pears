@@ -6,7 +6,12 @@
   {% endif %}
   <link media="only screen and (max-device-width: 480px)" href="{{
     pathto('_static/small_flask.css', 1) }}" type= "text/css" rel="stylesheet" />
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
+
+
+<script src="{{ pathto('_static/audiojs/audio.min.js', 1) }}"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
 {% endblock %}
 {%- block footer %}
     <div class="footer">

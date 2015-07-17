@@ -30,6 +30,11 @@ import shlex
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
+
+rst_prolog = open("definitions.sb", "r").read()
+
+
+
 extensions = [
     'sphinx.ext.todo',
     'sphinxcontrib.fulltoc',

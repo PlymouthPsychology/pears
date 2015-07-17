@@ -1,21 +1,33 @@
 
 
-.. _introduction:
-
 
 Introduction
-=====================
+============================================
 
 
-Everyone knows what pain is like, but medicine is only beginnning to understand how pain works, and how to treat it.
+
+
+A new understanding
+**********************************
+
+Everyone knows what pain is like, but medicine is now beginnning to understand how pain works, and how to treat it.
+
+This new understanding has changed the way we treat pain after surgery. Drugs are still an important part of treatment. But doctors and other experts now believe that simple techniques to change how we think and feel about pain will benefit most patients.
+
+
+.. container:: admonition
+	
+	Simple techniques to stay relaxed, calm, and positive after surgery are recommended by surgeons and pain experts.
+
 
 
 
 Pain seems simple
 **************************
 
+
 .. figure:: img/ball-play.jpg
-	:width: 250px
+	:width: 350px
 	:align: right
 
 	Image Andy Bernay-Roman via `Flickr <https://www.flickr.com/photos/andy_bernay-roman/380005234/in/photolist-zzCjo-6iD3MB-9aJtJx-yPdKf-9AZpL5-9iRQ6Z-5DjzKn-58nn9a-5VHJrH-6tFPcd-c4xtkC-vDvyp-mbLVfH-kY5Epz-nUrkxF-4tZzPG-nx6Cz4-araQgA-bxtcq7-6c43Qy-ifAVrq-9zcuRZ-fd8Ri7-hcoJHc-AbDY4-7PfkFE-msSK7P-8oro1g-9paC8L-9Y3Wd9-9FdirU-8VQfQb-7B6Yqs-dKuyN-4UcLTB-ar3TVq-bpBwzw-9cszRw-8VDpsL-8VDp2w-e6W8DF-8eAwVu-6TyRFP-ikVsYr-ayGnaa-bkGei2-4TLEMC-d9UJCP-cBjMX3-6kTX8X>`_
@@ -60,22 +72,22 @@ This is what everyone needs to know:
 Why does this matter?
 *******************************
 
-Everybody hurts, sometimes. 
+Everybody hurts, sometimes.  Our bodies are incredibly tough, but sometimes we damage them through accidents or need surgery to correct problems that develop.
 
-Our bodies are incredibly tough, but sometimes we damage them through accidents or need surgery to correct problems that develop.
 
 Painkilling drugs are an important part of treatment, and used properly can be very effective.  `Find out more about using painkillers properly <painkillers>`_.
 
-But drugs aren't the only way to reduce pain, and other techniques can make painkillers more effective. 
+But drugs aren't the only way to reduce pain, and other techniques can make painkillers more effective.
+
+Learning how to relax and using positive suggestions can also give you more control over your care, and may help you recover faster.
 
 
 .. container:: admonition
 
-	Relaxation, reducing anxiety, and positive suggestions, are recommended by NICE and pain experts as part of the standard treatment following surgery. 
+	Relaxation, reducing anxiety, and positive expectations, are recommended by NICE and pain experts as part of the standard treatment following surgery. 
 
 
-
-Pears is desgined to make these techniques easy to apply in hospital, and after you go home. You can use this guide to get started now:
+Pears is designed to explain why these techniques work, and make these techniques easy to use in hospital or at home. You can use this guide to get started now:
 
 - :ref:`Find out about how pain works <howpainworks>`, or 
 - :ref:`Learn how to reduce your pain after surgery <reduce-pain>`.
@@ -91,26 +103,4 @@ Pears is desgined to make these techniques easy to apply in hospital, and after 
 
 
 
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 

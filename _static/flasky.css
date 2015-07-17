@@ -41,7 +41,7 @@ div.sphinxsidebar {
 }
 
 hr {
-    border: 1px solid #B1B4B6;
+    border: 1px solid #e1ded5;
 }
 
 div.body {
@@ -131,6 +131,7 @@ div.sphinxsidebar ul {
     padding: 0;
     color: #000;
 }
+
 
 div.sphinxsidebar input {
     border: 1px solid #ccc;
@@ -468,4 +469,49 @@ a:hover tt {
 }
 
 
+
+
+
+.infobox {
+    position: absolute;
+    font-size: .8em;
+    margin-left: -16em;
+    margin-right:1em;
+    background-color: rgba(232,232,215,.2);
+    border: 1px rgba(0,0,0,.1) solid;
+    padding: 1em;
+    float: right;
+    width: 12em;
+
+}
+
+
+
+#audiowrapper {
+    background-color: rgba(232,232,215,.2);
+    border: 1px rgba(0,0,0,.1) solid;
+    padding: 2em;
+    width:460px;
+}
+
+ol.playlist { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+ol.playlist li { position: relative; margin: 0px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer; }
+ol.playlist li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
+   
+li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
+      li.playing a { color: #000; }
+      li.playing:before { content: '➪'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
+      
+#shortcuts { position: fixed; bottom: 0px; width: 100%; color: #666; font-size: 0.9em; margin: 60px 0px 0px; padding: 20px 20px 15px; background: #f3f3f3; background: rgba(240, 240, 240, 0.7); }
+#shortcuts div { width: 460px; margin: 0px auto; }
+#shortcuts h1 { margin: 0px 0px 6px; }
+#shortcuts p { margin: 0px 0px 18px; }
+#shortcuts em { font-style: normal; background: #d3d3d3; padding: 3px 9px; position: relative; left: -3px;
+-webkit-border-radius: 4px; -moz-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px;
+-webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -o-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); }
+
+@media screen and (max-device-width: 480px) {
+#audiowrapper { position: relative; left: -3%; }
+#shortcuts { display: none; }
+}
 

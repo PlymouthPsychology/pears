@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Reducing pain after surgery &mdash; Pears 0.0.1 documentation</title>
+    <title>Audio files &mdash; Pears 0.0.1 documentation</title>
     
     <link rel="stylesheet" href="_static/flasky.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -28,15 +28,9 @@
   
   <link media="only screen and (max-device-width: 480px)" href="_static/small_flask.css" type= "text/css" rel="stylesheet" />
 
-<link media="only screen and (max-device-width: 480px)" href="_static/audiojs/audiojs.css" type= "text/css" rel="stylesheet" />
 
 <script src="_static/audiojs/audio.min.js"></script>
 
-<script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-</script>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
@@ -58,9 +52,107 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="reducing-pain-after-surgery">
-<span id="reduce-pain"></span><h1>Reducing pain after surgery<a class="headerlink" href="#reducing-pain-after-surgery" title="Permalink to this headline">¶</a></h1>
-<p>Stuff</p>
+  <div class="section" id="audio-files">
+<h1>Audio files<a class="headerlink" href="#audio-files" title="Permalink to this headline">¶</a></h1>
+<p>These audio files are desiged to be used whilst sitting or lying down.  Some tips for use:</p>
+<ul class="simple">
+<li>Make yourself comfortable with a pillow or cushion</li>
+<li>Keep warm while relaxing with a blanket or cover</li>
+<li>Use headphones to avoid being interrupted</li>
+</ul>
+<div class="section" id="relaxation-scripts">
+<h2>Relaxation scripts<a class="headerlink" href="#relaxation-scripts" title="Permalink to this headline">¶</a></h2>
+    <div id="audiowrapper">
+  <audio preload></audio>
+  <ol class="playlist">
+    <li>
+            <a href="#" data-src="https://plymouth-pears.s3.amazonaws.com/safeplace.mp3">Peaceful place relaxation</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="XXX">Progressive muscle relaxation</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="XXX">Relaxed breathing exercise</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="https://plymouth-pears.s3.amazonaws.com/Combined_Relaxation_Exercise.mp3">Combined relaxation (20 minutes).</a>
+    </li>
+
+
+  </ol>
+</div></div>
+<div class="section" id="positive-suggestions">
+<h2>Positive suggestions<a class="headerlink" href="#positive-suggestions" title="Permalink to this headline">¶</a></h2>
+    <div id="audiowrapper">
+  <audio preload></audio>
+  <ol class="playlist">
+    <li>
+            <a href="#" data-src="https://plymouth-pears.s3.amazonaws.com/safeplace.mp3">Peaceful place relaxation</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="XXX">Progressive muscle relaxation</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="XXX">Relaxed breathing exercise</a>
+    </li>
+
+    <li>
+            <a href="#" data-src="https://plymouth-pears.s3.amazonaws.com/Combined_Relaxation_Exercise.mp3">Combined relaxation (20 minutes).</a>
+    </li>
+
+
+  </ol>
+</div><script>
+  $(function() {
+    // Setup the player to autoplay the next track
+    var a = audiojs.createAll({
+      trackEnded: function() {
+        var next = $('ol li.playing').next();
+        if (!next.length) next = $('ol li').first();
+        next.addClass('playing').siblings().removeClass('playing');
+        audio.load($('a', next).attr('data-src'));
+        audio.play();
+      }
+    });
+
+    // Load in the first track
+    var audio = a[0];
+        first = $('ol a').attr('data-src');
+    $('ol li').first().addClass('playing');
+    audio.load(first);
+
+    // Load in a track on click
+    $('ol li').click(function(e) {
+      e.preventDefault();
+      $(this).addClass('playing').siblings().removeClass('playing');
+      audio.load($('a', this).attr('data-src'));
+      audio.play();
+    });
+    // Keyboard shortcuts
+    $(document).keydown(function(e) {
+      var unicode = e.charCode ? e.charCode : e.keyCode;
+         // right arrow
+      if (unicode == 39) {
+        var next = $('li.playing').next();
+        if (!next.length) next = $('ol li').first();
+        next.click();
+        // back arrow
+      } else if (unicode == 37) {
+        var prev = $('li.playing').prev();
+        if (!prev.length) prev = $('ol li').last();
+        prev.click();
+        // spacebar
+      } else if (unicode == 32) {
+        audio.playPause();
+      }
+    })
+  });
+</script></div>
 </div>
 
 

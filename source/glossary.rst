@@ -1,10 +1,6 @@
-.. toctree::  
-   :hidden:
-   
 
-*********
-Glossary 
-*********
+
+.. rubric:: Glossary 
 
 
 

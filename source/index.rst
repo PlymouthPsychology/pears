@@ -13,20 +13,31 @@
 Pears
 =================================
 
-*A brief intervention to manage pain*
+*Pain Education And Relaxation with Suggestion*
 
 
-Pears is a brief intervention to help people manage pain after surgery. The name stands for: Pain Education And Relaxation with Suggestion. This guide is a prototype for patients undergoing joint replacement. 
+-------------------------------------------------------
 
-The aims of this guide are to:
+
+Pears is a brief intervention to help people manage pain after surgery. This guide is a prototype for patients undergoing joint replacement. The aims of this guide are to:
 
 - Explain how pain works, and what it means
 - Teach you how to reduce your pain after surgery
 
 
 
-:ref:`Start the course now <introduction>`.
 
+
+
+:doc:`Start the course now  ➪ <introduction>`.
+
+
+
+-------------------------------------------------------
+
+
+Course contents
+~~~~~~~~~~~~~~~~~~
 
 
 .. toctree::
@@ -34,7 +45,7 @@ The aims of this guide are to:
 
    introduction
    how-pain-works
-   the-basics
+   ways-to-change
 
    glossary
 
