@@ -14,17 +14,15 @@ This new understanding has changed the way we treat pain after surgery. Drugs ar
 
 
 
-
-Pain seems simple
-**************************
-
-
 .. figure:: img/ball-play.jpg
 	:width: 350px
 	:align: right
+	:target: https://www.flickr.com/photos/andy_bernay-roman/380005234/in/photolist-zzCjo-6iD3MB-9aJtJx-yPdKf-9AZpL5-9iRQ6Z-5DjzKn-58nn9a-5VHJrH-6tFPcd-c4xtkC-vDvyp-mbLVfH-kY5Epz-nUrkxF-4tZzPG-nx6Cz4-araQgA-bxtcq7-6c43Qy-ifAVrq-9zcuRZ-fd8Ri7-hcoJHc-AbDY4-7PfkFE-msSK7P-8oro1g-9paC8L-9Y3Wd9-9FdirU-8VQfQb-7B6Yqs-dKuyN-4UcLTB-ar3TVq-bpBwzw-9cszRw-8VDpsL-8VDp2w-e6W8DF-8eAwVu-6TyRFP-ikVsYr-ayGnaa-bkGei2-4TLEMC-d9UJCP-cBjMX3-6kTX8X
 
-	Image Andy Bernay-Roman via `Flickr <https://www.flickr.com/photos/andy_bernay-roman/380005234/in/photolist-zzCjo-6iD3MB-9aJtJx-yPdKf-9AZpL5-9iRQ6Z-5DjzKn-58nn9a-5VHJrH-6tFPcd-c4xtkC-vDvyp-mbLVfH-kY5Epz-nUrkxF-4tZzPG-nx6Cz4-araQgA-bxtcq7-6c43Qy-ifAVrq-9zcuRZ-fd8Ri7-hcoJHc-AbDY4-7PfkFE-msSK7P-8oro1g-9paC8L-9Y3Wd9-9FdirU-8VQfQb-7B6Yqs-dKuyN-4UcLTB-ar3TVq-bpBwzw-9cszRw-8VDpsL-8VDp2w-e6W8DF-8eAwVu-6TyRFP-ikVsYr-ayGnaa-bkGei2-4TLEMC-d9UJCP-cBjMX3-6kTX8X>`_
 
+
+Pain seems simple
+**************************
 
 
 When we are children, pain seems simple. We know that cutting a finger or scraping knee is painful because the body has been damaged.  
@@ -83,7 +81,24 @@ Relaxation and positive suggestions can also give you more control over your car
 
 Pears is designed to explain why these techniques work, and make them easy to use in hospital or at home. You can use this guide to get started now:
 
-- :ref:`Find out about how pain works <howpainworks>`, or 
-- :ref:`Learn how to reduce your pain after surgery <reduce-pain>`.
+
+:doc:`➪  Find out more about how pain really works <how-pain-works>`
+
+:doc:`➪  Learn how to reduce your pain after surgery <ways-to-change>`.
 
 
+
+
+.. toctree::
+   :maxdepth: 1
+
+   how-pain-works
+
+
+
+
+.. raw:: html
+
+   <script type="text/javascript">
+   	$(".toctree-wrapper").hide();
+   </script>

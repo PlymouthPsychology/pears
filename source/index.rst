@@ -34,7 +34,6 @@ Course contents
 
    recovering-from-surgery
    new-understanding
-   how-pain-works
    ways-to-change
 
    Relaxations and positive suggestions <playlist>
@@ -51,10 +50,10 @@ Course contents
 
 .. raw:: html
 
-   <script>
-   document.getElementById("course-contents").previousElementSibling.style.display='none';
-   document.getElementById("course-contents").style.display='none';
-
+   <script type="text/javascript">
+   $(".toctree-wrapper").hide();
+   $("#course-contents").prev().hide();
+   $("#course-contents").hide();
    </script>
 
 

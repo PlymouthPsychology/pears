@@ -12,6 +12,7 @@ Recovering from joint surgery
 
 
 
+
 Replacing a joint changes many patients lives. Most patients find their pain is reduced and mobility is increased. 
 
 But replacing a joint requires major surgery and is not a quick fix or magic bullet.
@@ -27,22 +28,3 @@ Most patients experience some pain and discomfort after surgery, and it's import
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

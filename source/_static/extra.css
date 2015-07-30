@@ -49,3 +49,4 @@ li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
 .sphinxsidebarwrapper ul { list-style: decimal outside !important; }
 
 
+.admonition { background-color: #faecc5 !important;}
