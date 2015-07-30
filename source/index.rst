@@ -8,7 +8,8 @@
 
 
 
-**Pears is a brief intervention to help people manage pain after surgery.**
+Pears is a brief intervention to help people manage pain after surgery
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This guide is a prototype specifically designed for patients undergoing joint replacement. Our aims are to:
 
