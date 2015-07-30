@@ -18,7 +18,7 @@ Most patients experience some pain and discomfort after surgery, and it's import
 
 
 
-.. note:: This video is a maship of NHS published material on youtube. It's not ideal, but mostly illustrates the idea... What is missing is patients pointing out it's not always a bed of roses and pain may persist even when taking analgesics. A surgeon should then reinforce the need to use all available means to reduce pain and improve quality of life, including relaxation and suggestion.
+.. note:: This video is a mashup of NHS-published material on youtube. It's not ideal, but mostly illustrates the idea... What is missing is patients pointing out it's not always a bed of roses and pain may persist even when taking analgesics. A surgeon should then reinforce the need to use all available means to reduce pain and improve quality of life, including relaxation and suggestion.
 
 
 
