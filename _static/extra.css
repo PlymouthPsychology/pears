@@ -45,8 +45,18 @@ li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
 
 
 
-
 .sphinxsidebarwrapper ul { list-style: decimal outside !important; }
+
+.sphinxsidebarwrapper ul > li > ul { list-style: lower-roman !important; }
+
+.sphinxsidebarwrapper ul > li > ul > li > ul { list-style: disc !important; }
+
 
 
 .admonition { background-color: #faecc5 !important;}
+
+
+
+
+h2 { margin-top: 1em !important; margin-top: 4em !important; border-top: 1px grey solid;}
+

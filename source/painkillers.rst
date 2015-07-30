@@ -101,7 +101,6 @@ Many patients find it's important to:
 
 
 
-
 Managing pain effectively can also be helped by relaxing, reducing anxiety and staying positive. 
 
 :doc:`➪ Learn some simple ways to reduce your pain after surgery <ways-to-change>`.

@@ -9,6 +9,30 @@ How pain works
 
 	Section incomplete and in note form only.
 
+
+
+
+The video below is a story told by `Lorimer Mosely <http://www.bodyinmind.org/who-are-we/>`_, an expert in the science of pain.  The story is simple, but illustrates how important our thoughts and feelings are in our experience of pain.
+
+
+
+.. raw:: html
+
+	<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/gwd-wLdIHjs&hl=en_US&start=31&autoplay=1&rel=0&end=317"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gwd-wLdIHjs&hl=en_US&start=31&autoplay=1&rel=0&end=317" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
+
+
+
+.. note:: The story ends at approx 5 minutes...
+
+
+
+
+
+
+
+
+
+
 	
 
 Pain starts with a signal
