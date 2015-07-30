@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 #
+
+
 # Pears documentation build configuration file, created by
 # sphinx-quickstart on Wed Jul 15 11:24:50 2015.
 #
@@ -15,6 +17,7 @@
 import sys
 import os
 import shlex
+
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -115,17 +118,12 @@ todo_include_todos = True
 
 # -- Options for HTML output ----------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-html_theme = 'kr'
+from better import better_theme_path
+html_theme_path = [better_theme_path]
+html_theme = 'better'
 
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-#html_theme_options = {}
 
-# Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['_themes']
+
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -347,6 +345,7 @@ epub_exclude_files = ['search.html']
 # Allow duplicate toc entries.
 #epub_tocdup = True
 
+
 # Choose between 'default' and 'includehidden'.
 #epub_tocscope = 'default'
 
@@ -370,3 +369,69 @@ html_copy_source = False
 html_show_sourcelink = False
 
 
+
+
+
+
+html_theme_options = {
+  # show sidebar on the right instead of on the left
+  'rightsidebar': False,
+
+  # inline CSS to insert into the page if you're too lazy to make a
+  # separate file
+  'inlinecss': '',
+
+  # CSS files to include after all other CSS files
+  # (refer to by relative path from conf.py directory, or link to a
+  # remote file)
+  'cssfiles': ['_static/extra.css'],  # default is empty list
+  'scriptfiles': ['_static/audiojs/audio.min.js', ], 
+
+  # show a big text header with the value of html_title
+  'showheader': True,
+
+  # show the breadcrumbs and index|next|previous links at the top of
+  # the page
+  'showrelbartop': True,
+  # same for bottom of the page
+  'showrelbarbottom': True,
+
+  # show the self-serving link in the footer
+  'linktotheme': False,
+
+  # width of the sidebar. page width is determined by a CSS rule.
+  # I prefer to define things in rem because it scales with the
+  # global font size rather than pixels or the local font size.
+  'sidebarwidth': '18rem',
+
+  # color of all body text
+  'textcolor': '#000000',
+
+  # color of all headings (<h1> tags); defaults to the value of
+  # textcolor, which is why it's defined here at all.
+  'headtextcolor': '',
+
+  # color of text in the footer, including links; defaults to the
+  # value of textcolor
+  'footertextcolor': '',
+
+  # Google Analytics info
+  'ga_ua': '',
+  'ga_domain': '',
+}
+
+
+html_short_title = "Home"
+html_title = "Pears: Pain Education and Relaxation with Suggestion"
+
+html_sidebars = {
+    '**': ['localtoc.html', 'sourcelink.html', ],  #'searchbox.html'
+}
+
+html_show_sphinx = False
+
+html_scaled_image_link = False
+
+html_copy_source = False
+
+html_show_copyright = False

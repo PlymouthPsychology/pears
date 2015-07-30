@@ -1,8 +1,8 @@
-
-Audio files
-===============================
+Audio files for relaxation and positive suggestion
+=======================================================
 
  
+
 
 .. figure:: img/blanket.png
   :align: right
@@ -16,7 +16,6 @@ Some tips for use:
 - Keep warm with a blanket or cover
 - Find a quiet place, and use headphones to avoid interruptions
   
-
 
 
 
@@ -57,6 +56,9 @@ Relaxation
 Positive suggestions    
 ----------------------
 
+
+.. note:: 
+  These are not recorded yet and won't work
 
 
 .. raw:: html

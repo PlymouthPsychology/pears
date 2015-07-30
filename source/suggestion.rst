@@ -32,7 +32,7 @@ In the audio recording below, we ask you to listen and respond to some suggestio
 
 .. note:: 
 
-	This audio clip will inculde a suggestion that the patient is feeling warm, soft and heavy — sinking down into their chair or bed. Followed by an awakening.
+	This audio clip will include a suggestion that the patient is feeling warm, soft and heavy — sinking down into their chair or bed. Followed by an awakening.
 
 
 

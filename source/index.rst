@@ -4,32 +4,21 @@
    contain the root `toctree` directive.
 
 
-.. figure:: img/pear.png
-	:width: 100px
-	:align: right
-
-
-
-Pears
-=================================
-
-*Pain Education And Relaxation with Suggestion*
-
-
--------------------------------------------------------
-
-
-Pears is a brief intervention to help people manage pain after surgery. This guide is a prototype for patients undergoing joint replacement. The aims of this guide are to:
-
-- Explain how pain works, and what it means
-- Teach you how to reduce your pain after surgery
 
 
 
 
+**Pears is a brief intervention to help people manage pain after surgery.**
+
+This guide is a prototype specifically designed for patients undergoing joint replacement. Our aims are to:
+
+1. Provide information about recovering from surgery
+2. Explain how pain works, what it means, and how it can affect recovery
+3. Teach you how to reduce your pain after joint surgery
 
 
-:doc:`Start the course now  ➪ <introduction>`.
+
+:doc:`Start the course now  ➪ <recovering-from-surgery>`.
 
 
 
@@ -43,12 +32,29 @@ Course contents
 .. toctree::
    :maxdepth: 1
 
-   introduction
+   recovering-from-surgery
+   new-understanding
    how-pain-works
    ways-to-change
 
+   Relaxations and positive suggestions <playlist>
+   Calm sounds and videos <calm-videos>
+
    glossary
 
+   
 
+
+
+
+
+
+.. raw:: html
+
+   <script>
+   document.getElementById("course-contents").previousElementSibling.style.display='none';
+   document.getElementById("course-contents").style.display='none';
+
+   </script>
 
 

@@ -3,7 +3,6 @@
 .. rubric:: Glossary 
 
 
-
 .. glossary::
 
     PEARS

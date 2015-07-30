@@ -1,8 +1,9 @@
 
-Easy ways to be more comfortable after surgery
+Ways to be more comfortable after surgery
 ===================================================
 
-The basic science of pain suggests that after an operation, in addition to useing painkilling medication effectively, we should:
+Pain experts recommend that, in addition to using pain-killing medication, patients recovering from surgery must:
+
 
 1. Relax
 2. Stay calm
@@ -10,19 +11,22 @@ The basic science of pain suggests that after an operation, in addition to usein
 4. Keep moving
 
 
-We know from clinical experience that patients who do this feel less pain, recover faster, and have better outcomes from their surgery.
 
-There are many ways in which we can change the way we think and feel. Relaxation and positive suggestions are two methods which have been studied and found to benefit many patients after surgery: relaxation and positive suggestion.
+We know from experience that patients who do this feel less pain and recover faster after their surgery.
+
+Relaxation and positive suggestions are two methods which have been studied and found to benefit many patients after surgery. Both can help patients stay calm and positive during times of discomfort, and keep recovery on track.
 
 
 
 .. toctree::
-   :maxdepth: 1
+	:maxdepth: 1
 
-   relaxation
-   suggestion
+   	relaxation
+   	suggestion
+   	Staying mobile <keep-moving>
+   	painkillers
 
-
+   	
 
 
 :doc:`➪ Using relaxation to make yourself more comfortable after surgery<relaxation>`

@@ -47,7 +47,7 @@ Conclusion: Signals from our body are only one type of information our pain syst
 
 
 
-Pain can sometimes be unhelpful
+Pain is helpful (but not always)
 ----------------------------------------------------
 
 Pain is often an important signal, alerting us to danger. However as we have learnt pain does not always mean that our body is being damaged. 

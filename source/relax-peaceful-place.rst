@@ -18,7 +18,7 @@ Imagining a safe and peaceful place
 
 It's surprising, but our bodies and emotions respond strongly to images we either see or imagine for ourselves. If you think of an embarassing memory, you might blush. Or your heart might beat faster when watching an exciting or frightening film. 
 
-**You can become calm and relaxed by imaginging yourself in a favourite or special place, which is safe, peaceful, and welcoming.**
+**You can become calm and relaxed by imaginging yourself in a place safe, peaceful, and welcoming.**
 
 Below is a short except from our 'Peaceful place' recording, which helps you bring to mind a safe and peaceful place, and focus your attention on it. You can listen to the clip below to get an idea of what is involved: 
 

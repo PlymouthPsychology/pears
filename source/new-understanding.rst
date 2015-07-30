@@ -1,18 +1,11 @@
 
 
+A new understanding of pain
+=================================
 
-Introduction
-============================================
+Everyone knows what pain is like, but doctors have only recently begun to understand how pain works, and how to treat it.
 
-
-
-
-A new understanding
-**********************************
-
-Everyone knows what pain is like, but medicine is now beginnning to understand how pain works, and how to treat it.
-
-This new understanding has changed the way we treat pain after surgery. Drugs are still an important part of treatment. But doctors and other experts now believe that simple techniques to change how we think and feel about pain will benefit most patients.
+This new understanding has changed the way we treat pain after surgery. Drugs are still an important part of treatment. But doctors and other experts also recommend simple techniques to change how we think and feel about pain.
 
 
 .. container:: admonition
@@ -72,14 +65,15 @@ This is what everyone needs to know:
 Why does this matter?
 *******************************
 
-Everybody hurts, sometimes.  Our bodies are incredibly tough, but sometimes we damage them through accidents or need surgery to correct problems that develop.
+Everybody gets hurt, sometimes. 
 
+Painkilling drugs are an important part of treatment after surgery, and used properly can be very effective.  `Find out more about using painkillers properly <painkillers>`_.
 
-Painkilling drugs are an important part of treatment, and used properly can be very effective.  `Find out more about using painkillers properly <painkillers>`_.
+But drugs aren't the only way to reduce pain, and don't always prevent people from experiencing long-lasting pain, sometimes months or years after an operation.
 
-But drugs aren't the only way to reduce pain, and other techniques can make painkillers more effective.
+Other techniques, including relaxation and positive suggestions, can make painkillers more effective, and might help reduce the risk of long-lasting pain.
 
-Learning how to relax and using positive suggestions can also give you more control over your care, and may help you recover faster.
+Relaxation and positive suggestions can also give you more control over your care, and may help you recover faster and regain better use of your joint.
 
 
 .. container:: admonition
@@ -87,20 +81,9 @@ Learning how to relax and using positive suggestions can also give you more cont
 	Relaxation, reducing anxiety, and positive expectations, are recommended by NICE and pain experts as part of the standard treatment following surgery. 
 
 
-Pears is designed to explain why these techniques work, and make these techniques easy to use in hospital or at home. You can use this guide to get started now:
+Pears is designed to explain why these techniques work, and make them easy to use in hospital or at home. You can use this guide to get started now:
 
 - :ref:`Find out about how pain works <howpainworks>`, or 
 - :ref:`Learn how to reduce your pain after surgery <reduce-pain>`.
 
 
-
-
-
-
-
-
-
-
-
-
- 
