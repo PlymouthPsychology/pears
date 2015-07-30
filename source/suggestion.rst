@@ -1,6 +1,11 @@
 Positive suggestion
 ============================
 
+.. figure:: img/expectation-versus-reality.jpg
+	:width: 300px
+	:align: right
+
+
 What we expect to happen can have a strong influence on how we experience the world, and this is particularly true for pain.  
 
 Pain is the simple result of signals from the body, and pain occurs when the sensations we experience are interpreted as dangerous. This is why relaxing can help reduce pain: when we relax we interpret sensations as less threatening, and less painful. 
