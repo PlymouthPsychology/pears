@@ -19,22 +19,19 @@ This guide is a prototype specifically designed for patients undergoing joint re
 
 
 
-:doc:`Start the course now  ➪ <recovering-from-surgery>`.
 
+.. admonition:: Key messages from the course
 
+   1. Some pain after surgery is to be expected
+   2. How we think and feel has a big impact on our pain
+   3. Relaxation and positive suggestion can help reduce pain, alongside painkilling drugs..
+   4. Simple techniques, like imagining a safe and peaceful place, are asy to do and can help before or after surgery.
+      
 
+            
+.. container:: actionlink
 
-Key messages to take away
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you learn nothing else:
-
-1. Some pain after surgery is to be expected
-2. How we think and feel has a big impact on our pain
-3. Relaxation and positive suggestion can help reduce pain, alongside painkilling drugs..
-4. Simple techniques, like imagining a safe and peaceful place, are asy to do and can help before or after surgery.
-
-
+   :doc:`Get started now <recovering-from-surgery>`.
 
 
 

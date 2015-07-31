@@ -5,9 +5,9 @@ How pain works
 ===============================
 
 
-.. warning:: 
+.. container:: gloss
 
-	Section incomplete and in note form only.
+	WARNING: Section incomplete and in note form only.
 
 
 
@@ -22,7 +22,10 @@ The video below is a story told by `Lorimer Mosely <http://www.bodyinmind.org/wh
 
 
 
-.. note:: The story ends at approx 5 minutes...
+
+.. container:: gloss
+	
+	The story ends at approx 5 minutes...
 
 
 

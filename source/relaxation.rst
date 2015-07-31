@@ -40,5 +40,7 @@ Everyone has their own ways to relax. But in hospital, away from familiar surrou
 These techniques have been used by thousands of patients around the world as part of their recovery We have made audio recordings to help you practice muscle relaxation and positive visualisation in hospital.  
 
 
-:doc:`➪ Find out how to use the peaceful place relaxation <relax-peaceful-place>`
+.. container:: actionlink
+	
+	:doc:`Find out how to use the peaceful place relaxation <relax-peaceful-place>`
 	

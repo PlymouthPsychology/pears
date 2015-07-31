@@ -34,11 +34,3 @@ Below is a short extract from our full body relaxation recording. You can listen
 	</audio>
 
 
-:doc:`➪ Listen to the full recording <playlist>`
-
-
-
-
-
-
-

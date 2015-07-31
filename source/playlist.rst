@@ -3,24 +3,26 @@ Audio files for relaxation and positive suggestion
 
  
 
+.. admonition:: Some tips for using these audio files
 
-.. figure:: img/blanket.png
-  :align: right
-  :width: 50%
-
-
-Some tips for use:
-
-- Always use while sitting or lying down.  
-- Make yourself comfortable with a pillow or cushion
-- Keep warm with a blanket or cover
-- Find a quiet place, and use headphones to avoid interruptions
+  - Always use while sitting or lying down.  
+  - Make yourself comfortable with a pillow or cushion
+  - Keep warm with a blanket or cover
+  - Find a quiet place, and use headphones to avoid interruptions
   
+
+.. container:: actionlink
+  
+  :doc:`You might also like this collection of soothing sounds and videos <calm-videos>`
 
 
 
 Relaxation    
 -------------
+
+.. container:: gloss
+
+  Some of these clips need editing down to make instructions consistent etc.
 
 
 .. raw:: html
@@ -57,7 +59,12 @@ Positive suggestions
 ----------------------
 
 
-.. note:: 
+
+
+
+
+.. container:: gloss
+
   These are not recorded yet and won't work
 
 
@@ -91,15 +98,6 @@ Positive suggestions
       <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Nausea fading</a>
     </li>
 	</ol>
-
-
-
-
-
-
-
-
-.. note:: Some of these clips need editing down to make instructions consistent etc.
 
 
 

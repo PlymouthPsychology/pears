@@ -2,19 +2,17 @@
 Ways to be more comfortable after surgery
 ===================================================
 
-Pain experts recommend that, in addition to using pain-killing medication, patients recovering from surgery must:
+As we have seen, the pain we feel is strongly influenced by the way we think and feel about it.
+
+We can reduce our pain by relaxing, staying calm, and remaining positive. It also helps to keep moving, even when we feel discomfort. 
 
 
-1. Relax
-2. Stay calm
-3. Remain postive
-4. Keep moving
+**We know from experience and research that patients who do this feel less pain and recover faster from their surgery.**
 
 
+After an operation, and in an unfamiliar setting, it can be hard to relax and pain can make us reluctant to move. Audio recordings of relaxation scripts and positive suggestions have been found to benefit many patients after surgery. 
 
-We know from experience that patients who do this feel less pain and recover faster after their surgery.
-
-Relaxation and positive suggestions are two methods which have been studied and found to benefit many patients after surgery. Both can help patients stay calm and positive during times of discomfort, and keep recovery on track.
+**Relaxation and positive suggestion can help patients stay calm and positive during times of discomfort, and keep their recovery on track.**
 
 
 
@@ -22,11 +20,13 @@ Relaxation and positive suggestions are two methods which have been studied and 
 	:maxdepth: 1
 
    	relaxation
-   	suggestion
    	Staying mobile <keep-moving>
+   	suggestion
    	painkillers
 
    	
 
 
-:doc:`➪ Using relaxation to make yourself more comfortable after surgery<relaxation>`
+.. container:: actionlink
+	
+	:doc:`Using relaxation after surgery<relaxation>`

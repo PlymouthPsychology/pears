@@ -1,9 +1,15 @@
 Positive suggestion
 ============================
 
-.. figure:: img/expectation-versus-reality.jpg
+.. figure:: img/capsules-cartoon.png
 	:width: 300px
 	:align: right
+
+
+.. container:: gloss
+
+	This isnt the right image
+
 
 
 What we expect to happen can have a strong influence on how we experience the world, and this is particularly true for pain.  
@@ -35,14 +41,14 @@ In the audio recording below, we ask you to listen and respond to some suggestio
 
 
 
-.. note:: 
+.. container:: gloss
 
 	This audio clip will include a suggestion that the patient is feeling warm, soft and heavy — sinking down into their chair or bed. Followed by an awakening.
 
 
 
 
-Other types of positive suggestions
+Other helpful types of positive suggestion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Many patients find positive suggestions helpful when recovering from surgery. These suggestions might include:

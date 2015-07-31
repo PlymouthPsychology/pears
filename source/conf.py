@@ -385,7 +385,7 @@ html_theme_options = {
   # (refer to by relative path from conf.py directory, or link to a
   # remote file)
   'cssfiles': ['_static/extra.css'],  # default is empty list
-  'scriptfiles': ['_static/audiojs/audio.min.js', '_static/jquery-1.11.1.min.js' ], 
+  'scriptfiles': ['_static/audiojs/audio.min.js', ], 
 
   # show a big text header with the value of html_title
   'showheader': True,

@@ -35,7 +35,6 @@ Below is a short except from our 'Peaceful place' recording, which helps you bri
 	</audio>
 
 
-:doc:`➪ Listen to the full recording <playlist>`
 
 
 

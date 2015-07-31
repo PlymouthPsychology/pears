@@ -29,7 +29,9 @@ Below is a short extract from our relaxed breathing recording. You can listen to
 	</audio>
 
 
-:doc:`➪ Listen to the full recording <playlist>`
+.. container:: actionlink
+
+	:doc:`Listen to the full recordings <playlist>`
 
 
 
