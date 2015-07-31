@@ -33,7 +33,6 @@ This guide is a prototype specifically designed for patients undergoing joint re
 
    :doc:`Start the course <recovering-from-surgery>`.
 
-
    :doc:`Use the relaxation recordings <playlist>`.
 
    
