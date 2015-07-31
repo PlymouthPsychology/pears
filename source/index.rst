@@ -28,11 +28,15 @@ This guide is a prototype specifically designed for patients undergoing joint re
    4. Simple techniques, like imagining a safe and peaceful place, are asy to do and can help before or after surgery.
       
 
-            
+
 .. container:: actionlink
 
-   :doc:`Get started now <recovering-from-surgery>`.
+   :doc:`Start the course <recovering-from-surgery>`.
 
+
+   :doc:`Use the relaxation recordings <playlist>`.
+
+   
 
 
 
