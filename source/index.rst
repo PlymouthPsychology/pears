@@ -24,8 +24,8 @@ This guide is a prototype specifically designed for patients undergoing joint re
 
    1. Some pain after surgery is to be expected
    2. How we think and feel has a big impact on our pain
-   3. Relaxation and positive suggestion can help reduce pain, alongside painkilling drugs..
-   4. Simple techniques, like imagining a safe and peaceful place, are asy to do and can help before or after surgery.
+   3. Relaxation and positive suggestion can help reduce pain, alongside painkilling drugs.
+   4. Simple techniques (like :doc:`imagining a safe and peaceful place <relax-peaceful-place`) are easy to do, and can help before or after surgery.
       
 
 
