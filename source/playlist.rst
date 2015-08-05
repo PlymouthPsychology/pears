@@ -65,7 +65,12 @@ Positive suggestions
 
 .. container:: gloss
 
-  These are not recorded yet and won't work
+  Additional suggestions might be included specifically for hips, and also for:
+
+  - Reduced pain
+  - Calmness and and contentment
+  - Reduced nausea
+
 
 
 .. raw:: html
@@ -73,30 +78,13 @@ Positive suggestions
 	<ol class="playlist">
 		
     <li>
-      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/induction.mp3">Getting ready for positive suggestions</a>
+      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/suggestion-introduction-knee.mp3">Getting ready for positive suggestions (2 mins)</a>
     </li>
 
     <li>
-			<a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Calm and pain free</a>
-		</li>
-
-		<li>
-			<a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Strong and balanced</a>
-		</li>
-
-		<li>
-      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Fluid movement</a>
+      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/a-more-comfortable-knee.mp3">Make your knee more comfortable (10 mins)</a>
     </li>
 
-
-    <li>
-      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Cool and soothing</a>
-    </li>
-
-
-    <li>
-      <a href="#" data-src="http://plymouth-pears.s3.amazonaws.com/">Nausea fading</a>
-    </li>
 	</ol>
 
 
